@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 *
 !.*/
 !.git*
@@ -7,3 +8,13 @@ Power?hell*
 dos*
 *~
 \#*#
+=======
+#ignore everything
+*
+**~
+#but these
+!.emacs*
+!.emacs*/
+!.git*
+!.git*/
+>>>>>>> f73f7672a154972151c712ecdfe41a348dd75da8

@@ -60,7 +60,11 @@
 	       ((:url . "http://github.com/defunkt/coffee-mode")
 		(:keywords "coffeescript" "major" "mode"))])
  (company .
+<<<<<<< HEAD
 	  [(0 8 1)
+=======
+	  [(0 8 0)
+>>>>>>> f73f7672a154972151c712ecdfe41a348dd75da8
 	   ((emacs
 	     (24 1))
 	    (cl-lib
@@ -141,6 +145,7 @@
 	      nil "Minor mode to visualize epoch timestamps" single
 	      ((:url . "http://elpa.gnu.org/packages/epoch-view.html")
 	       (:keywords "data" "timestamp" "epoch" "unix"))])
+<<<<<<< HEAD
  (ergoemacs-mode .
 		 [(5 14 7 1)
 		  ((emacs
@@ -150,6 +155,8 @@
 		  "Emacs mode based on common modern software interface and ergonomics." tar
 		  ((:keywords "convenience")
 		   (:url . "https://github.com/ergoemacs/ergoemacs-mode"))])
+=======
+>>>>>>> f73f7672a154972151c712ecdfe41a348dd75da8
  (f90-interface-browser .
 			[(1 1)
 			 nil "Parse and browse f90 interfaces" single
@@ -254,7 +261,11 @@
 	      ((:url . "http://elpa.gnu.org/packages/nhexl-mode.html")
 	       (:keywords "data"))])
  (nlinum .
+<<<<<<< HEAD
 	 [(1 5)
+=======
+	 [(1 4)
+>>>>>>> f73f7672a154972151c712ecdfe41a348dd75da8
 	  nil "Show line numbers in the margin" single
 	  ((:url . "http://elpa.gnu.org/packages/nlinum.html")
 	   (:keywords "convenience"))])
@@ -278,7 +289,11 @@
 	    ((:url . "http://elpa.gnu.org/packages/omn-mode.html")
 	     (:keywords))])
  (org .
+<<<<<<< HEAD
       [(20140707)
+=======
+      [(20140623)
+>>>>>>> f73f7672a154972151c712ecdfe41a348dd75da8
        nil "Outline-based notes management and organizer" tar nil])
  (osc .
       [(0 1)
