@@ -3,5 +3,6 @@
 
 #but these
 !.emacs*
+!.emacs*/
 !.git*
-!.emacs*/*
+!.git*/
