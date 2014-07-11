@@ -1,6 +1,6 @@
 #ignore everything
 *
-
+**~
 #but these
 !.emacs*
 !.emacs*/
