@@ -40,3 +40,5 @@
 (require 'package)
 (add-to-list 'package-archives
 	     '("melpa" . "http://melpa.milkbox.net/packages/") t)
+(global-hl-line-mode 1)
+(set-face-background 'hl-line "#323232")
